@@ -1,0 +1,18 @@
+{
+  "name": "StudyBuddy AI",
+  "short_name": "StudyBuddy",
+  "description": "AI study, chat, quiz, GK and photo question helper",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#6c5ce7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/studybuddy.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
