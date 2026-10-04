@@ -9,9 +9,9 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/StudyBuddy-Ai/studybuddy.svg",
+      "src": "src": "/StudyBuddy-Ai/studybuddy-icon.png",
       "sizes": "any",
-      "type": "image/svg+xml",
+      "type": "type": "image/png",
       "purpose": "any maskable"
     }
   ]
